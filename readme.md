@@ -2,7 +2,7 @@
 
 A machine learning solution for predicting loan default probability using an ensemble of LightGBM, XGBoost, and CatBoost models with advanced feature engineering.
 
-**Competition:** [Home Credit Default Risk](https://www.kaggle.com/c/home-credit-default-risk) (GCI Global 2026)  
+**Competition:** [Home Credit Default Risk](https://www.kaggle.com/c/home-credit-default-risk) 
 **Approach:** Gradient Boosting Ensemble with EXT_SOURCE Imputation Features  
 **CV Score:** 0.7636 |  
 
