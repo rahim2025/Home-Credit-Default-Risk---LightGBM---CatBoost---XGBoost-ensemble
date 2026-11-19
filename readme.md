@@ -135,10 +135,10 @@ If you use this code, please cite:
 
 ```bibtex
 @software{home_credit_2024,
-  title={Home Credit Default Risk Prediction},
-  author={[Md Raheem Bhuiyan]},
+  title={Home Credit Default Risk ---LightGBM + CatBoost + XGBoost ensemble},
+  author={Md Raheem Bhuiyan},
   year={2024},
-  url={https://github.com/[rahim2025]/home-credit-default-risk}
+  url={https://github.com/rahim2025/Home Credit Default Risk - LightGBM + CatBoost + XGBoost ensemble }
 }
 ```
 
@@ -146,5 +146,5 @@ If you use this code, please cite:
 ---
 
 **Author:** Raheem Bhuiyan  
-**Competition:** GCI Global 2026  
+
 
